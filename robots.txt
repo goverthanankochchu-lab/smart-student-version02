@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grade-09-students.vercel.app/sitemap.xml
